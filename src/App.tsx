@@ -18,8 +18,8 @@ function App() {
           <h1>통합회원 </h1>
           <p style={{ marginBottom: "12px" }}>클럽 포털 통합회원 어쩍구 현황</p>
           <iframe
-            width="720px"
-            height="405px"
+            width="1280px"
+            height="720px"
             src={`http://localhost:39050/#/report/publish/5f9cba01-5254-449c-bb46-40789793b15f?embed=true`}
             frameBorder={0}
             allowFullScreen={true}
